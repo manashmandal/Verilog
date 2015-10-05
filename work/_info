@@ -8,3 +8,44 @@ z2
 !i10f 100
 cModel Technology
 dI:/ModelSimAltera
+vMUX_Four
+Z0 !s110 1444062592
+!i10b 1
+!s100 5QhBScO=6<g@Ka[mi]6SJ1
+I9[K<`P9^5o9bB4V@l`2?]3
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dC:/Users/Manash/Documents/GitHub/Verilog
+w1444060275
+8C:/Users/Manash/Documents/GitHub/Verilog/MUX4X1.v
+FC:/Users/Manash/Documents/GitHub/Verilog/MUX4X1.v
+L0 5
+Z3 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1444062591.760000
+!s107 C:/Users/Manash/Documents/GitHub/Verilog/MUX4X1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Manash/Documents/GitHub/Verilog/MUX4X1.v|
+!i113 1
+Z4 o-work work
+n@m@u@x_@four
+vtest_mux
+R0
+!i10b 1
+!s100 DIjQ@O[h@kJGWJEP7B@m[1
+INmaoL6<?Ddii;9R_8J=dB2
+R1
+R2
+w1444060872
+8C:/Users/Manash/Documents/GitHub/Verilog/test_mux.v
+FC:/Users/Manash/Documents/GitHub/Verilog/test_mux.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1444062592.244000
+!s107 C:/Users/Manash/Documents/GitHub/Verilog/test_mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Manash/Documents/GitHub/Verilog/test_mux.v|
+!i113 1
+R4
